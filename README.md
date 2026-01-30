@@ -5,7 +5,7 @@
 
 Actualmente curso el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), con gran interés por el mundo de la tecnología, el desarrollo de software y la programación de videojuegos.
 
-Me considero una persona curiosa y constante: me gusta aprender creando proyectos y mejorando poco a poco la calidad del código (estructura, documentación y control de versiones con Git/GitHub).
+Me considero una persona curiosa y constante: me gusta aprender creando proyectos y mejorando poco a poco la calidad del código.
 
 Vengo de una base sólida en sistemas: hardware, software, instalación y mantenimiento de equipos, y nociones de redes; esto me ayuda a entender bien “qué pasa por debajo” cuando desarrollo aplicaciones.
 
