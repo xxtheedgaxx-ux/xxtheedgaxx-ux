@@ -8,8 +8,8 @@ Actualmente curso el Ciclo Superior de Desarrollo de Aplicaciones Multiplataform
 Mi formación incluye conocimientos sólidos en hardware, software y desarrollo de aplicaciones.
 
 ### 📜 Certificaciones
-- Técnico en Sistemas Microinformáticos y Redes (SMX) — Monlau (2023–2025). [web:43]
-- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). [web:47][web:51]
+- Técnico en Sistemas Microinformáticos y Redes (SMX) — Monlau (2023–2025).
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). 
 
 </details>
 
@@ -21,8 +21,8 @@ I’m currently studying the Higher Vocational Training program in Multiplatform
 My background includes solid knowledge of hardware, software, and application development.
 
 ### 📜 Certifications
-- Microcomputer Systems and Networks Technician (SMX) — Monlau (2023–2025). [web:43]
-- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). [web:47][web:51]
+- Microcomputer Systems and Networks Technician (SMX) — Monlau (2023–2025). 
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). 
 
 </details>
 
