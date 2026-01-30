@@ -8,9 +8,8 @@ Actualmente curso el Ciclo Superior de Desarrollo de Aplicaciones Multiplataform
 Mi formación incluye conocimientos sólidos en hardware, software y desarrollo de aplicaciones.
 
 ### 📜 Certificaciones
-- Cisco — [Nombre de la certificación] ([Año])  
-- Docker — [Nombre del curso/certificación] ([Año])  
-- [Otra] — [Nombre] ([Año])  
+- Técnico en Sistemas Microinformáticos y Redes (SMX) — Monlau (2023–2025). [web:43]
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). [web:47][web:51]
 
 </details>
 
@@ -22,9 +21,8 @@ I’m currently studying the Higher Vocational Training program in Multiplatform
 My background includes solid knowledge of hardware, software, and application development.
 
 ### 📜 Certifications
-- Cisco — [Certification name] ([Year])  
-- Docker — [Course/Certification name] ([Year])  
-- [Other] — [Name] ([Year])  
+- Microcomputer Systems and Networks Technician (SMX) — Monlau (2023–2025). [web:43]
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). [web:47][web:51]
 
 </details>
 
