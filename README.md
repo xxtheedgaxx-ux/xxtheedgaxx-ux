@@ -3,26 +3,34 @@
 <details open>
 <summary><strong>🇪🇸 Español</strong></summary>
 
-Actualmente curso el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), con gran interés por el mundo de la tecnología y la programación de videojuegos.
+Actualmente curso el Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), con gran interés por el mundo de la tecnología, el desarrollo de software y la programación de videojuegos.
 
-Mi formación incluye conocimientos sólidos en hardware, software y desarrollo de aplicaciones.
+Me considero una persona curiosa y constante: me gusta aprender creando proyectos y mejorando poco a poco la calidad del código (estructura, documentación y control de versiones con Git/GitHub).
+
+Vengo de una base sólida en sistemas: hardware, software, instalación y mantenimiento de equipos, y nociones de redes; esto me ayuda a entender bien “qué pasa por debajo” cuando desarrollo aplicaciones.
+
+Ahora mismo sigo centrado en mis estudios y en reforzar buenas prácticas mientras desarrollo proyectos para seguir mejorando como programador (especialmente en el área de videojuegos).
 
 ### 📜 Certificaciones
-- Técnico en Sistemas Microinformáticos y Redes (SMX) — Monlau (2023–2025).
-- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). 
+- Técnico en Sistemas Microinformáticos y Redes (SMX) — Monlau (2023–2025)
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023)
 
 </details>
 
 <details>
 <summary><strong>🇬🇧 English</strong></summary>
 
-I’m currently studying the Higher Vocational Training program in Multiplatform Application Development (DAM), with a strong interest in technology and game programming.
+I’m currently studying the Higher Vocational Training program in Multiplatform Application Development (DAM), with a strong interest in technology, software development, and game programming.
 
-My background includes solid knowledge of hardware, software, and application development.
+I’m a curious and consistent learner: I like building projects to learn, and I continuously improve code quality (structure, documentation, and version control with Git/GitHub).
+
+I come from a solid systems background (hardware, software, device setup/maintenance, and networking fundamentals), which helps me understand what’s happening “under the hood” when I develop applications.
+
+Right now, I’m focused on my studies, strengthening good practices, and building projects to keep improving as a developer (especially in game-related work).
 
 ### 📜 Certifications
-- Microcomputer Systems and Networks Technician (SMX) — Monlau (2023–2025). 
-- Cambridge English: First (FCE) / B2 First — Kids&Us (2023). 
+- Microcomputer Systems and Networks Technician (SMX) — Monlau (2023–2025)
+- Cambridge English: First (FCE) / B2 First — Kids&Us (2023)
 
 </details>
 
